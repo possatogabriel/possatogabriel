@@ -6,12 +6,15 @@
 📖 In my final year of High School, with Professional Qualification as a Systems Development Technician 
 
 ## 🌱 I’m currently learning ...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "40" height = "40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height = "40"/>
+
+## 📒 I have basic knowledge in ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "40"/>
 
 ## 🏫 I'm currently studying at ...
-<a href = "https://www.cps.sp.gov.br/etec/"> <img src="img/etec1.png" height = "40">
-</a> <a href = "https://www.alura.com.br/"> <img src="img/alura1.png" height = "40">
+<a href = "https://www.cps.sp.gov.br/etec/"> <img src="img/etec1.png" height = "40"> </a> 
+
+<a href = "https://www.alura.com.br/"> <img src="img/alura1.png" height = "40">
 </a>
           
 ## 📧 How to reach me: ...  
