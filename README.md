@@ -19,8 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = 40/> <img src = "img/expo.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height = 40/> 
           
 ## 💼 Professional & Academic Background
-<a href = "https://www.mackenzie.br/"> <img src="img/mackenzie1.png" height = 40> </a> <a href = "https://www.cps.sp.gov.br/etec/"> <img src="img/etec1.png" height = 40> </a> <a href = "https://www.alura.com.br/"> <img src="img/alura1.png" height = 40>
-</a>
+<a href = "https://www.mackenzie.br/"><img src="img/mackenzie1.png" height = 40></a> <a href = "https://www.cps.sp.gov.br/etec/"><img src="img/etec1.png" height = 40></a> <a href = "https://www.alura.com.br/"><img src="img/alura1.png" height = 40></a>
           
 ## 📫 Contact Me
 
