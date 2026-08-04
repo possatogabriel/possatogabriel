@@ -5,7 +5,7 @@
 
 🏫 I completed High School at ETEC with a **Professional Qualification as a System Development Technician**
 
-🎓 I'm currently in my first semester of **Computer Science** at Universidade Presbiteriana Mackenzie
+🎓 I'm currently in my second semester of **Computer Science** at Universidade Presbiteriana Mackenzie
 
 🌐 Languages: Portuguese (native), English **(advanced proficiency – C1, certified C2)**
 
